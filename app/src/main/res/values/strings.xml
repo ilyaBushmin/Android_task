@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Period App</string>
+    <string name="еучеиет1">ПОКАЗАТЬ РЕЗУЛЬТАТ</string>
+    <string name="confirm_button_text">ВВЕСТИ</string>
+    <string name="day_text">ВВЕДИТЕ ДЕНЬ</string>
+    <string name="month_text">ВВЕДИТЕ МЕСЯЦ</string>
+    <string name="year_text">ВВЕДИТЕ ГОД</string>
+</resources>
